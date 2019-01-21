@@ -16,12 +16,12 @@ header {
 #header {
   position: fixed;
   top: -9999;
-  left: 0;
   width: 100%;
   z-index: 100;
   padding: 10px 20px;
   background-color: #fff;
   max-width: 1600px;
+  box-sizing: border-box;
 }
 
 #header.vis {
