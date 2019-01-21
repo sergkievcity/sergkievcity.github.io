@@ -517,12 +517,16 @@ header {
   width:100%;
   position: fixed;
   display: none;
-  max-width 1600px;
+  max-width: 1600px;
+  bottom: 20px;
+  
 }
 
 .up {
   color: rgba(255,255,255,0.8);
   font-size: 40px;
+  float: right;
+  padding-right: 30px;
 }
 
 .up:hover {
