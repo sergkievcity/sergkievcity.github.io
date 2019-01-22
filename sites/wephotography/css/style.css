@@ -1040,22 +1040,26 @@ footer {
 #toTop {
   position: fixed;
   bottom: 20px;
-  right: 20px;
   display: none;
-  background-color: #fff;
-  border-radius: 50%;
+  max-width: 1600px;
+  width: 100%;
 }
 
 .up {
   color: #f88409;
   font-size: 40px;
+  float: right;
+	padding-right: 20px;
 }
 
 .up:hover {
   color: #c75329;
   cursor: pointer;
 }
-
+.fa-chevron-circle-up:before{
+	background-color: #fff;
+	border-radius: 50%;
+}
 #header {
   display: flex;
   padding: 20px 0;
