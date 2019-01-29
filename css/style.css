@@ -273,7 +273,7 @@ header {
 }
 .item1{
   background-image: url("../images/item1.jpg");
-  background-position: center;
+  background-position: center top;
 }
 .item3{
   background-image: url("../images/item3.jpg");
