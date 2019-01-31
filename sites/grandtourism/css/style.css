@@ -87,7 +87,7 @@ header {
 #main {
   height: 100vh;
   width: 100%;
-  max-height: 700px;
+  max-height: 800px;
 }
 
 .left-side {
@@ -1614,6 +1614,11 @@ footer {
 }
 
 @media screen and (max-width: 680px) {
+ #main {
+  height: 100vh;
+  width: 100%;
+  max-height: 600px;
+}	
   header {
     padding: 20px 20px;
   }
