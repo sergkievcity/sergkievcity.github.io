@@ -29,11 +29,10 @@ header {
 }
 
 #toggle-2 {
-  margin-right: 30px;
   float: right;
   display: none;
   padding-top: 3px;
-  padding-right: 20px;
+  padding-right: 10px;
   cursor: pointer;
 }
 
