@@ -665,6 +665,9 @@ header {
   .one_item {
     width: calc(100% - 30px);
   }
+  .my-foto {
+    float:none;
+  }
   .one_title {
     font-size: 32px;
   }
