@@ -590,9 +590,6 @@ header {
 }
 
 @media screen and (max-width: 780px) {
-  .portfolio {
-    background: #554b4a;
-  }
 
   .item_link {
     width: calc(100% - 30px);
